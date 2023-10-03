@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Scanner App requires access to your device&apos;s camera to capture images and documents for scanning purposes. This access is necessary for the app to function properly and provide you with a seamless scanning experience.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Scanner App uses Face ID for secure authentication and document access. Your facial recognition data is never shared with third parties and is stored securely on your device for enhanced security.</string>
+	<key>NSIdentityUsageDescription</key>
+	<string>Scanner App may require access to certain personal information for user account management and document organization. Your data is handled with care and is never shared without your consent.</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Scanner App needs access to your media library to allow you to import and save scanned documents, images, or files to your device&apos;s media library. This enables you to manage and organize your scanned content efficiently.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Asap.ttf</string>
+	</array>
+</dict>
+</plist>
